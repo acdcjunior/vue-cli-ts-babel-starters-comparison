@@ -1,4 +1,4 @@
-# ts-without-babel
+# babel-no-ts
 
 ## Project setup
 ```
